@@ -1,2 +1,2 @@
 # global-ban
-Global C3CBot
+this repository will continue the old global ban C3C system
